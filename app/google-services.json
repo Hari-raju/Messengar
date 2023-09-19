@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161647923042",
+    "project_id": "messengar-bec1f",
+    "storage_bucket": "messengar-bec1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161647923042:android:c0f0664e21f63fee00663b",
+        "android_client_info": {
+          "package_name": "com.raju.messengar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161647923042-5530l1nq4kunhl8t2379gt3fe66pubs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW6bwn-jhWFXlyBKckcIEkSwDUU4NPeLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161647923042-5530l1nq4kunhl8t2379gt3fe66pubs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

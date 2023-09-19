@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="user_name">User Name</string>
+    <string name="co_nde">CO\nDE</string>
+    <string name="verify">VERIFY</string>
+    <string name="mail_id">Mail id</string>
+    <string name="enter_the_otp_sent_to_your">Enter the OTP sent to your</string>
+    <string name="xxxxxx">XXXXXX</string>
+    <string name="select_users">Select Users</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="online">Online</string>
+    <string name="product_of_raju">Product of Raju</string>
+    <string name="verfication_code">Verfication Code</string>
+    <string name="please_enter_the_verification_code_sent_n_to_1234_gmail_com">Please enter the verification code sent \n to 1234@gmail.com</string>
+    <string name="xxxx">XXXX</string>
+    <string name="didn_t_receive_an_otp">Didn\'t Receive an OTP?</string>
+    <string name="resend_otp">Resend OTP?</string>
+    <string name="submit">Submit</string>
+    <string name="account_was_created_successfully">Account was created successfully</string>
+    <string name="welcome_to_home_page">Welcome to Home Page</string>
+    <string name="done">Done</string>
+</resources>
